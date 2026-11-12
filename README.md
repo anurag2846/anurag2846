@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**anurag2846/anurag2846** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anurag Pareek</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">First-Year B.Tech CSE Student | Aspiring Software Engineer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Learning, Building and Growing in the World of Technology 🚀
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 First-Year B.Tech Computer Science Engineering student.
+- 💻 Exploring programming and software development.
+- 🌱 Currently learning Python, C++ and Data Structures & Algorithms.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🎯 My goal is to become a Software Engineer at a leading technology company.
+- 📚 Believe in continuous learning and practical problem-solving.
+
+### 🛠️ Technologies I'm Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🎯 2026–2027 Goals
+
+- Strengthen programming fundamentals.
+- Learn Data Structures and Algorithms.
+- Build real-world projects.
+- Improve problem-solving skills.
+- Contribute to open-source projects.
+
+### 🤝 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile link here.
+- GitHub: https://github.com/anurag2846
+
+---
+
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i>
+</p>
+
