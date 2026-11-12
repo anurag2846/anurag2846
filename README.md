@@ -3,123 +3,99 @@
 
 # ANURAG PAREEK
 
-### B.Tech Computer Science Engineering Student
+### COMPUTER SCIENCE ENGINEERING STUDENT
 
-**ASPIRING SOFTWARE ENGINEER | FUTURE TECHNOLOGIST**
+<p>
+  <b>Aspiring Software Engineer | Future Technologist</b>
+</p>
 
-Building my foundation in Computer Science, one project at a time.
-
-<br/>
+<p>
+  Learning • Building • Growing
+</p>
 
 <a href="https://github.com/anurag2846">
-  <img src="https://img.shields.io/badge/GitHub-anurag2846-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-ANURAG2846-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/anuragg38/">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## ABOUT ME
+## 👋 ABOUT ME
 
-Hello! I'm **Anurag Pareek**, a first-year B.Tech Computer Science Engineering student passionate about technology, programming and innovation.
+Hello! I'm **Anurag Pareek**, a first-year B.Tech Computer Science Engineering student at **D Y Patil International University**.
 
-I'm currently building my programming foundation and exploring the world of software engineering.
+I'm passionate about technology, programming and exploring how software can solve real-world problems.
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering
-- 💻 Learning Python and C++
-- 🧠 Exploring Data Structures & Algorithms
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🎯 Long-term goal: Become a Software Engineer at a MAANG company
-- 🚀 Focused on continuous learning and building practical projects
+- 🎓 B.Tech in Computer Science Engineering
+- 💻 Currently exploring Python and C++
+- 🧠 Interested in Data Structures & Algorithms
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🎯 Long-term goal: Software Engineer at a MAANG company
+- 📚 Focused on learning, consistency and personal growth
 
 ---
 
-## TECH STACK & TOOLS
+## 💻 TECHNOLOGIES I'M EXPLORING
 
-**Programming Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
-</p>
-
-**Development Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-**Areas of Interest**
-
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-1E293B?style=flat-square&logo=thealgorithms&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-1E293B?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-1E293B?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" />
 </p>
 
 ---
 
-## CURRENT LEARNING JOURNEY
+## 🎯 MY LEARNING GOALS
 
-| Area | Focus |
+| Focus Area | Current Direction |
 |---|---|
-| Python | Programming Fundamentals |
-| C++ | Programming Fundamentals |
-| DSA | Problem Solving |
-| Git & GitHub | Version Control |
-| AI & ML | Exploring the Basics |
+| Python | Programming fundamentals |
+| C++ | Programming fundamentals |
+| DSA | Building problem-solving skills |
+| Git & GitHub | Learning version control |
+| AI & ML | Exploring the fundamentals |
 
 ---
 
-## GITHUB ANALYTICS
+## 🚀 MY JOURNEY
+
+**2026 – 2027**
+
+- Strengthen programming fundamentals
+- Learn Git and GitHub
+- Practice problem solving
+- Build my first coding projects
+- Explore web development
+- Develop a strong computer science foundation
+
+---
+
+## 🤝 LET'S CONNECT
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anuragg38/">
+    <img src="https://img.shields.io/badge/LinkedIn-My_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/anurag2846">
+    <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:anurag2846@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  📍 Pune, Maharashtra, India
+</p>
+
+---
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anurag2846&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+### "Dream big. Learn continuously. Build relentlessly."
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2846&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=anurag2846&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 2026–2027 ROADMAP
-
-- [ ] Master programming fundamentals
-- [ ] Strengthen Python and C++
-- [ ] Learn Data Structures & Algorithms
-- [ ] Start solving LeetCode problems
-- [ ] Build my first real-world projects
-- [ ] Learn Web Development
-- [ ] Explore AI and Machine Learning
-- [ ] Start contributing to Open Source
-
----
-
-## CONNECT WITH ME
-
-<div align="center">
-
-I'm always interested in learning, connecting and collaborating with fellow developers.
-
-<a href="https://github.com/anurag2846">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### "Consistency turns beginners into professionals."
-
-**Thanks for visiting my profile!**
+**Thank you for visiting my profile!**
 
 </div>
