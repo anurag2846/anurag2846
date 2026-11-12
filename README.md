@@ -1,48 +1,125 @@
 
-<h1 align="center">Hi 👋, I'm Anurag Pareek</h1>
+<div align="center">
 
-<h3 align="center">First-Year B.Tech CSE Student | Aspiring Software Engineer</h3>
+# ANURAG PAREEK
 
-<p align="center">
-  Learning, Building and Growing in the World of Technology 🚀
-</p>
+### B.Tech Computer Science Engineering Student
+
+**ASPIRING SOFTWARE ENGINEER | FUTURE TECHNOLOGIST**
+
+Building my foundation in Computer Science, one project at a time.
+
+<br/>
+
+<a href="https://github.com/anurag2846">
+  <img src="https://img.shields.io/badge/GitHub-anurag2846-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## ABOUT ME
 
-- 🎓 First-Year B.Tech Computer Science Engineering student.
-- 💻 Exploring programming and software development.
-- 🌱 Currently learning Python, C++ and Data Structures & Algorithms.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🎯 My goal is to become a Software Engineer at a leading technology company.
-- 📚 Believe in continuous learning and practical problem-solving.
+Hello! I'm **Anurag Pareek**, a first-year B.Tech Computer Science Engineering student passionate about technology, programming and innovation.
 
-### 🛠️ Technologies I'm Learning
+I'm currently building my programming foundation and exploring the world of software engineering.
+
+- 🎓 Pursuing B.Tech in Computer Science Engineering
+- 💻 Learning Python and C++
+- 🧠 Exploring Data Structures & Algorithms
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🎯 Long-term goal: Become a Software Engineer at a MAANG company
+- 🚀 Focused on continuous learning and building practical projects
+
+---
+
+## TECH STACK & TOOLS
+
+**Programming Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
-### 🎯 2026–2027 Goals
+**Development Tools**
 
-- Strengthen programming fundamentals.
-- Learn Data Structures and Algorithms.
-- Build real-world projects.
-- Improve problem-solving skills.
-- Contribute to open-source projects.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-### 🤝 Connect With Me
+**Areas of Interest**
 
-- LinkedIn: Add your LinkedIn profile link here.
-- GitHub: https://github.com/anurag2846
+<p>
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-1E293B?style=flat-square&logo=thealgorithms&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-1E293B?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-1E293B?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</p>
 
 ---
 
-<p align="center">
-  <i>"Great things are built one line of code at a time."</i>
-</p>
+## CURRENT LEARNING JOURNEY
 
+| Area | Focus |
+|---|---|
+| Python | Programming Fundamentals |
+| C++ | Programming Fundamentals |
+| DSA | Problem Solving |
+| Git & GitHub | Version Control |
+| AI & ML | Exploring the Basics |
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anurag2846&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2846&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=anurag2846&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 2026–2027 ROADMAP
+
+- [ ] Master programming fundamentals
+- [ ] Strengthen Python and C++
+- [ ] Learn Data Structures & Algorithms
+- [ ] Start solving LeetCode problems
+- [ ] Build my first real-world projects
+- [ ] Learn Web Development
+- [ ] Explore AI and Machine Learning
+- [ ] Start contributing to Open Source
+
+---
+
+## CONNECT WITH ME
+
+<div align="center">
+
+I'm always interested in learning, connecting and collaborating with fellow developers.
+
+<a href="https://github.com/anurag2846">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### "Consistency turns beginners into professionals."
+
+**Thanks for visiting my profile!**
+
+</div>
